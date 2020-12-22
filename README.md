@@ -12,7 +12,7 @@ This project is a starting point for a Flutter application.
 
 ![image](https://user-images.githubusercontent.com/55031190/102889541-da114680-4480-11eb-9378-efb479299bde.png)
 
-![image](https://user-images.githubusercontent.com/55031190/102889552-de3d6400-4480-11eb-901b-0479ad3076e5.png)
+![image](https://user-images.githubusercontent.com/55031190/102889707-22c8ff80-4481-11eb-877a-43e8f4147e27.png)
 
 
 A few resources to get you started if this is your first Flutter project:
