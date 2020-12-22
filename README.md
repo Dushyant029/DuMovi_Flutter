@@ -1,4 +1,4 @@
-# movieapp
+# DuMovi App
 
 A new Flutter project.
 
