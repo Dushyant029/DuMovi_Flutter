@@ -8,7 +8,7 @@ This project is a starting point for a Flutter application.
 
 ## Preview
 
-![image](https://user-images.githubusercontent.com/55031190/102889527-d382cf00-4480-11eb-8638-01b0bef5c78b.png)
+![image](https://user-images.githubusercontent.com/55031190/102890053-cc0ff580-4481-11eb-990f-c79626486daa.png)
 
 ![image](https://user-images.githubusercontent.com/55031190/102889541-da114680-4480-11eb-9378-efb479299bde.png)
 
